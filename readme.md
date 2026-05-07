@@ -6,4 +6,4 @@
 
 ## 产品页展示
 
-![1](https://github.com/M1niduo/zjmf-newapi/blob/main/interface.png)
+![1](https://github.com/M1niduo/zjmf-newapi/blob/main/interface.jpg)
